@@ -12,3 +12,5 @@ The game is represented by an infinite grid, which are represented by cells. The
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 This application keeps track of the current generation of cells, as well as having a start, stop, exit, clear and toggle grid button.
+
+![fullscreen](https://user-images.githubusercontent.com/91392684/147784396-54365d44-ae1a-47b4-802c-a86bdb3dbc38.PNG)
